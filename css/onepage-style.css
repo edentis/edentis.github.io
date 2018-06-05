@@ -61,7 +61,7 @@ a,
 a:visited,
 a:active{color:#18a8bc;}
 a:hover{color:#0099ff; text-decoration:none;}
-/* Box sizing. Awesome thing. Read about it here: http://www.w3schools.com/cssref/css3_pr_box-sizing.asp */
+/* Box sizing. Awesome thing. Read about it here: https://www.w3schools.com/cssref/css3_pr_box-sizing.asp */
 *{box-sizing:border-box; -moz-box-sizing:border-box;}
 /* Responsive images  */
 img{ max-width:100%; height:auto;}
@@ -218,7 +218,7 @@ footer{
 .background-grey{ background:#2b2d34;}
 .background-lightgrey{ background:#f0f0f0;}
 .background-yellow{ background:#ffc56a; color:#fff;}
-.background-yellow__longshadow{ /*Thank you, http://sandbox.juan-i.com/longshadows/*/
+.background-yellow__longshadow{ /*Thank you, https://sandbox.juan-i.com/longshadows/*/
 	text-shadow: rgb(230, 177, 95) 1px 1px,
     rgb(230, 177, 95) 2px 2px,
     rgb(230, 177, 95) 3px 3px,

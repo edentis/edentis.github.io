@@ -38,7 +38,7 @@ a:hover{color:#0099ff;}
 a:hover{ text-decoration:none;}
 
 
-/* Box sizing. Awesome thing. Read about it here: http://www.w3schools.com/cssref/css3_pr_box-sizing.asp */
+/* Box sizing. Awesome thing. Read about it here: https://www.w3schools.com/cssref/css3_pr_box-sizing.asp */
 *{	box-sizing:border-box;
 	-moz-box-sizing:border-box;}
   
