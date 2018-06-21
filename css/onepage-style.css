@@ -21,6 +21,9 @@ BASE (MOBILE) SIZE
 .component-name__sub-object
 .component-name__sub-object--modifier-name
 */
+#map {
+    height: 100%;
+}
 
 /********* BASE *********
 ***************************/
